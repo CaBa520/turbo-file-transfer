@@ -1,0 +1,4 @@
+# 忽略上传目录中的所有文件
+public/uploads/*
+# 但保留目录本身
+!public/uploads/.gitkeep 
