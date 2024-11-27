@@ -9,7 +9,6 @@
    file_transfer/
    ├── App/ # 应用程序核心代码
    │ ├── Controllers/ # 控制器
-   │ │ ├── FileController.php
    │ │ └── AdminController.php
    │ └── Utils/ # 工具类
    │ └── Captcha.php
@@ -20,7 +19,7 @@
    │ │ ├── css/
    │ │ │ └── style.css
    │ │ └── js/
-   │ │ └── main.js
+   │ │ │ └── main.js
    │ ├── uploads/ # 文件上传目录
    │ ├── .htaccess
    │ └── index.php
